@@ -2,7 +2,7 @@
 HASCデータのラベル情報(activity, person, file, terminal position)をcsv形式で出力するプログラム
 
 ## 使い方
-``
+
 1. output_file_labelsがある階層にcdで移動
 2. terminal_position_table.pyを用意
 3. 同ディレクトリにdataディレクトリを用意.
